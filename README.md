@@ -1,6 +1,7 @@
 # React App with SWC Compiler and Webpack
 
 This is a React boilerplate created using the SWC compiler and Webpack. The app is containerized with Docker and can be run in both development and production modes.
+<img src="./public//assets/app-screenshot.png" alt="app-screenshot">
 
 ## Prerequisites
 
