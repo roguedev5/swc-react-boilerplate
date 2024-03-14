@@ -13,7 +13,7 @@ function App() {
           A simple React Boiler plate app built using SWC(Speedy web compiler),
           Webpack and Docker.
         </p>
-        <div>
+        <div className="logoContainer">
           <img src={logo} className="App-logo" alt="logo" />
           <img src={swc} className="App-logo" alt="swc" />
           <img src={webpack} className="App-logo" alt="webpack" />
